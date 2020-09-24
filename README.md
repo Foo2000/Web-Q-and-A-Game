@@ -1,7 +1,7 @@
 # Web Q&A Game
 A web game that you can answer questions to win gold. Link for the website: https://www.cs.mcgill.ca/~zfu5/
 
-In each room, you can either answer the question or enter the command to go to other rooms.
+In each room, the player can either answer the question or enter the command to go to other rooms.
 
 If the answer is correct, the player get 10 gold pieces. Otherwise, the player lose 5 gold pieces. 
 
