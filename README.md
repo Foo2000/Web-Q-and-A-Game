@@ -7,4 +7,4 @@ If the answer is correct, the player gets 10 gold pieces. Otherwise, the player 
 
 When the player cannot pay, he dies. When the player owns 100 gold pieces, he wins.
 
-This is a McGill COMP206 course project. Each room is developed by a COMP206 student. The code here is for my room. The website is based on McGill server.
+This is a course project. Each room is developed by a student . The code here is for my room. The website is based on McGill server.
